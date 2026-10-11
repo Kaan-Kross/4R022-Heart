@@ -1,0 +1,239 @@
+4R022 HEART LICENSE (4R022-HL) — Version 1.0
+Copyright (c) 2026 4R022 / Kaan Kross. All rights reserved except as granted below.
+
+Source-available, brand-preserving license.
+Kaynak kodu açık, marka koruyan lisans.
+
+This is NOT an OSI-approved "open source" license. Please read it fully.
+Bu lisans OSI onaylı bir "açık kaynak" lisansı DEĞİLDİR. Lütfen tamamını okuyun.
+
+================================================================================
+SUMMARY / ÖZET  (not legally binding — the full text below controls)
+================================================================================
+
+  EN   You MAY run, copy and share 4R022 Heart for free — with friends, family,
+       your partner, at private events, on social media. You MAY modify it for
+       personal, non-commercial use.
+       You MUST NOT remove, hide, change or replace the 4R022 brand: the name,
+       the "4R022 PRESENTS" opening, the logo, the credits, and the copyright /
+       license notices. You MUST NOT sell it or use it commercially without
+       written permission. You MUST NOT claim it as your own work.
+
+  TR   4R022 Heart'ı ücretsiz çalıştırabilir, kopyalayabilir ve paylaşabilirsiniz
+       — arkadaşlarınızla, ailenizle, sevgilinizle, özel organizasyonlarda,
+       sosyal medyada. Kişisel ve ticari olmayan amaçlarla değiştirebilirsiniz.
+       4R022 markasını SİLEMEZ, GİZLEYEMEZ, DEĞİŞTİREMEZ veya başka bir şeyle
+       DEĞİŞTİREMEZSİNİZ: isim, "4R022 PRESENTS" açılışı, logo, krediler ve
+       telif/lisans bildirimleri dahil. Yazılı izin olmadan SATAMAZ veya ticari
+       amaçla KULLANAMAZSINIZ. Kendi eseriniz gibi GÖSTEREMEZSİNİZ.
+
+================================================================================
+1. DEFINITIONS
+================================================================================
+
+"Software"  means 4R022 Heart, including its source code, build scripts,
+            documentation, and the assets distributed with it.
+
+"Licensor"  means 4R022 / Kaan Kross, the copyright holder.
+
+"You"       means the individual or legal entity exercising rights under this
+            License.
+
+"Brand Elements" means, collectively:
+  (a) the names "4R022", "4R022 Heart" and "4R022 PRESENTS";
+  (b) the opening title sequence that displays "4R022 PRESENTS" before the
+      main scene, and the closing card that displays "4R022 HEART" at the end;
+  (c) the 4R022 logo and icons found in the Assets/Logo and Assets/Icons
+      folders, and any window title, application name, icon or about/version
+      information that carries the 4R022 name;
+  (d) the copyright notices, attribution lines and credits in the source code,
+      in the user interface, and in any accompanying document;
+  (e) this License file (LICENSE) and the NOTICE file (Docs/NOTICE.md in the
+      repository, NOTICE.md in packaged builds).
+
+"Modified Version" means any work derived from or based on the Software,
+            including edited source code, re-skinned or re-packaged builds, and
+            any build created from altered files.
+
+"Commercial Use" means any use intended for or directed toward commercial
+            advantage or monetary compensation, including selling, licensing,
+            renting, charging for access to the Software or to a Modified
+            Version, bundling it in a paid product or service, using it in paid
+            advertising, or using it to promote a business, product or service
+            other than the personal sharing described in Section 3.
+
+================================================================================
+2. GRANT OF LICENSE
+================================================================================
+
+Subject to the conditions of this License, the Licensor grants You a worldwide,
+royalty-free, non-exclusive, non-transferable, revocable license to:
+
+  (a) run the Software on any number of devices and displays;
+  (b) copy and redistribute the Software, in source or built form, free of
+      charge;
+  (c) modify the Software for personal, non-commercial purposes, and share
+      Modified Versions free of charge under the same conditions as this
+      License.
+
+================================================================================
+3. PERSONAL SHARING IS WELCOME
+================================================================================
+
+The Licensor created 4R022 Heart to be shared. You are explicitly allowed to,
+free of charge:
+
+  - give the Software to friends, family and your partner as a gift or surprise;
+  - run it at private gatherings, celebrations, proposals, weddings, school or
+    community events that are not run for profit;
+  - publish screenshots, screen recordings and videos of it on social media,
+    provided the "4R022 PRESENTS" opening or the 4R022 name remains visible or
+    is credited (for example "made with 4R022 Heart").
+
+All of the above requires that the Brand Elements remain intact (Section 4).
+
+================================================================================
+4. BRAND PRESERVATION — MANDATORY CONDITION
+================================================================================
+
+This is the core condition of this License. In every copy, build, and Modified
+Version of the Software, You MUST keep all Brand Elements, and You MUST NOT:
+
+  (a) remove, skip, shorten, cut short, hide, obscure, cover,
+      blur, recolor to invisibility, or disable the "4R022 PRESENTS" opening or
+      any other Brand Element;
+  (b) replace, rename, rebrand or white-label the Software, its window title,
+      executable name, installer, icons or logo with another name or mark;
+  (c) delete or alter copyright notices, credits, the LICENSE file, the Docs/NOTICE.md
+      file, or the license/attribution headers in source files;
+  (d) alter the Software to hide, bypass or defeat any of the above, or help or
+      instruct others to do so;
+  (e) present the Software or any part of it as Your own work, or imply that
+      You are its author, owner or licensor;
+  (f) suggest endorsement by, or affiliation with, 4R022 / Kaan Kross where
+      none exists.
+
+Modified Versions MUST be clearly marked as modified (for example "Modified by
+<name>") in a place that does not replace or hide any Brand Element, and MUST
+include a copy of this License.
+
+================================================================================
+5. OTHER RESTRICTIONS
+================================================================================
+
+Unless You have prior WRITTEN permission from the Licensor, You MUST NOT:
+
+  (a) engage in Commercial Use of the Software or any Modified Version;
+  (b) sell, sublicense, lease or otherwise charge for the Software, including
+      charging for downloads, "premium" copies, or access through ad-wrapped
+      links or paywalls;
+  (c) re-upload the Software to marketplaces, app stores or code-hosting
+      services under a different name or author;
+  (d) use the Brand Elements as the name, logo or mark of any other product,
+      project, company or service;
+  (e) use the Software to train, or as a basis to create, a competing
+      branded product that hides its origin.
+
+To request permission, contact the Licensor (see Section 12).
+
+================================================================================
+6. TRADEMARKS
+================================================================================
+
+Nothing in this License grants You any right in the Brand Elements as
+trademarks or trade names, except the limited right to reproduce them,
+unaltered, as part of the Software in accordance with this License. All
+goodwill arising from their use belongs to the Licensor.
+
+================================================================================
+7. THIRD-PARTY COMPONENTS AND ASSETS
+================================================================================
+
+The Software relies on third-party components (for example Qt for Python /
+PySide6 and PyInstaller) that are licensed under their own terms. This License
+does not change those terms, and they continue to apply to those components.
+See Docs/NOTICE.md for details. Assets (such as music) may be subject to separate
+rights as described in Docs/NOTICE.md; this License grants no rights in third-party
+material beyond what its owners allow.
+
+================================================================================
+8. CONTRIBUTIONS
+================================================================================
+
+Unless You state otherwise in writing, any contribution You intentionally submit
+for inclusion in the Software is submitted under the terms of this License, and
+You grant the Licensor a perpetual, worldwide, royalty-free, irrevocable license
+to use, modify and distribute that contribution as part of the Software.
+
+================================================================================
+9. TERMINATION
+================================================================================
+
+This License and all rights granted under it terminate automatically if You
+breach any of its conditions, in particular Section 4 or Section 5. If You cure
+the breach within thirty (30) days after becoming aware of it (for example by
+restoring all removed Brand Elements and withdrawing the infringing copies), Your
+rights are reinstated for the first such breach. The Licensor may otherwise
+reinstate Your rights at its sole discretion. Upon termination You must stop
+using and distributing the Software and all Modified Versions.
+
+================================================================================
+10. DISCLAIMER OF WARRANTY
+================================================================================
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+================================================================================
+11. LIMITATION OF LIABILITY
+================================================================================
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE LICENSOR BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR
+THE USE OF, OR OTHER DEALINGS IN, THE SOFTWARE.
+
+The Software displays flashing light and moving visual effects on full screen.
+You are responsible for deciding whether it is suitable for your audience.
+
+================================================================================
+12. GENERAL
+================================================================================
+
+If any provision is held unenforceable, the remaining provisions stay in effect.
+No waiver is effective unless in writing. This License is governed by the laws
+of the Republic of Türkiye, without regard to conflict-of-law rules. This License
+is written in English; the Turkish summary is provided for convenience, and if
+there is any conflict, the English text prevails.
+
+Contact / İletişim: 4R022 / Kaan Kross — see the project's GitHub page.
+
+================================================================================
+TÜRKÇE ÖZET METİN (bilgi amaçlıdır; çelişki halinde İngilizce metin geçerlidir)
+================================================================================
+
+1. Yazılımı ücretsiz olarak çalıştırabilir, kopyalayabilir ve paylaşabilirsiniz;
+   kişisel ve ticari olmayan amaçlarla değiştirebilirsiniz.
+
+2. Arkadaşlarınıza, ailenize ve sevgilinize hediye edebilir; kâr amacı gütmeyen
+   özel etkinliklerde gösterebilir; ekran görüntüsü ve videolarını, "4R022
+   PRESENTS" açılışı görünür kalmak veya kaynak belirtmek şartıyla, sosyal
+   medyada paylaşabilirsiniz.
+
+3. ZORUNLU ŞART — MARKA KORUMA: "4R022", "4R022 Heart", "4R022 PRESENTS" adları,
+   açılış sahnesi, logo ve ikonlar, krediler, telif bildirimleri, LICENSE ve
+   Docs/NOTICE.md dosyaları her kopyada ve her değiştirilmiş sürümde AYNEN kalmalıdır.
+   Silmek, atlamak, kısaltmak, gizlemek, başka bir isimle yeniden markalamak veya
+   kendi eseriniz gibi göstermek YASAKTIR.
+
+4. Yazılı izin olmadan satamaz, ücret karşılığı sunamaz, ticari amaçla
+   kullanamaz, başka isim veya yazar adıyla yeniden yükleyemezsiniz.
+
+5. Şartların ihlali halinde lisans kendiliğinden sona erer; ihlali fark
+   ettikten sonraki 30 gün içinde giderirseniz (ilk ihlal için) haklarınız
+   yeniden geçerli olur.
+
+6. Yazılım "OLDUĞU GİBİ" sunulur; hiçbir garanti verilmez. Uygulama tam ekranda
+   yanıp sönen ışık efektleri içerir; izleyici kitlenize uygunluğu sizin
+   sorumluluğunuzdadır.
