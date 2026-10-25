@@ -9,11 +9,6 @@
 
 <br>
 
-[![Release](https://img.shields.io/github/v/release/KaanKross/4R022-Heart?style=for-the-badge&color=b0102f&label=release)](../../releases)
-[![Build](https://img.shields.io/github/actions/workflow/status/KaanKross/4R022-Heart/build.yml?style=for-the-badge&label=build&color=111111)](../../actions)
-[![Downloads](https://img.shields.io/github/downloads/KaanKross/4R022-Heart/total?style=for-the-badge&color=b0102f&label=downloads)](../../releases)
-[![Stars](https://img.shields.io/github/stars/KaanKross/4R022-Heart?style=for-the-badge&color=111111)](../../stargazers)
-
 ![Version](https://img.shields.io/badge/version-1.2.0-b0102f?style=flat-square)
 ![Platforms](https://img.shields.io/badge/Windows%20%7C%20macOS%20%7C%20Linux-supported-111111?style=flat-square)
 ![Languages](https://img.shields.io/badge/languages-30-b0102f?style=flat-square)
